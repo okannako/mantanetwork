@@ -25,3 +25,4 @@
  cargo run --release --package manta-trusted-setup --all-features --bin groth16_phase2_client register
 ```
 - Bu kodları sırayla girdikten sonra en son bize twitter ve mail adresimizi soruyor. Bunları yazdıktan sonra otomatik olarak bize belirli bilgilerin yer aldığı çıktılar veriyor. Bunların hepsini mutlaka bir not defteri vs. kaydediyorsnuz. Polkadot JS kurup cüzdan oluşturup (https://www.youtube.com/watch?v=xYXrP5dL_hU&t=629s) [BURADAN](https://polkadot.js.org/apps/#/settings/metadata) KMA karşılığı adresinizi öğrenebilirsiniz. Daha sonra [BU FORMU](https://mantanetwork.typeform.com/TrustedSetup) dolduruyoruz. Form doldurulmazsa kayıt tamamlanmaz. Bu işlem bittikten sonra kayıt adımını tamamlamış oluyor ve vps'i silebilirsiniz. 2. adım olan 'Contribution/Katkı' adımı daha başlamadı.
+- Manta Network'ün Discord kanalına katılmayı unutmayın: https://discord.gg/rJS2JTxgTb
