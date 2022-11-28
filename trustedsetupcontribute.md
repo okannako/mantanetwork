@@ -24,4 +24,4 @@
  cd manta-rs
  cargo run --release --package manta-trusted-setup --all-features --bin groth16_phase2_client contribute
 ```
-- Bu kodları sırayla girdikten sonra en son gelen ekranda önceki aşamadaki yedeklediğimiz kelimeleri soruyor. Bunları girerek işlemi başlatıyoruz. Vidoeda (https://t.co/StxBdV2GRI) işlemler daha açıklamalı bir şekilde bulunmaktadır.
+- Bu kodları sırayla girdikten sonra en son gelen ekranda önceki aşamadaki yedeklediğimiz kelimeleri soruyor. Bunları girerek işlemi başlatıyoruz. Vidoeda (https://www.youtube.com/watch?v=rYXocnUB1DM)) işlemler daha açıklamalı bir şekilde bulunmaktadır.
